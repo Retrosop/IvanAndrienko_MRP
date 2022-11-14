@@ -7,6 +7,8 @@ import android.widget.EditText;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.demo.messenger.R;
+
 public class CreateMessageActivity extends AppCompatActivity {
 
     private EditText editTextMsg;

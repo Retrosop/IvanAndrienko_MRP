@@ -6,6 +6,8 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.demo.messenger.R;
+
 public class RecievedMessageActivity extends AppCompatActivity {
 
     private TextView textViewReceivedMsg;
